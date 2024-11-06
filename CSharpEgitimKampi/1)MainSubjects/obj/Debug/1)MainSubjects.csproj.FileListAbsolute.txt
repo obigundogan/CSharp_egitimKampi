@@ -1,0 +1,7 @@
+C:\Users\İbrahim\OneDrive\Masaüstü\C#\C# Dersleri\CSharpEgitimKampi\1)MainSubjects\bin\Debug\1)MainSubjects.exe.config
+C:\Users\İbrahim\OneDrive\Masaüstü\C#\C# Dersleri\CSharpEgitimKampi\1)MainSubjects\bin\Debug\1)MainSubjects.exe
+C:\Users\İbrahim\OneDrive\Masaüstü\C#\C# Dersleri\CSharpEgitimKampi\1)MainSubjects\bin\Debug\1)MainSubjects.pdb
+C:\Users\İbrahim\OneDrive\Masaüstü\C#\C# Dersleri\CSharpEgitimKampi\1)MainSubjects\obj\Debug\1)MainSubjects.csproj.AssemblyReference.cache
+C:\Users\İbrahim\OneDrive\Masaüstü\C#\C# Dersleri\CSharpEgitimKampi\1)MainSubjects\obj\Debug\1)MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim\OneDrive\Masaüstü\C#\C# Dersleri\CSharpEgitimKampi\1)MainSubjects\obj\Debug\1)MainSubjects.exe
+C:\Users\İbrahim\OneDrive\Masaüstü\C#\C# Dersleri\CSharpEgitimKampi\1)MainSubjects\obj\Debug\1)MainSubjects.pdb

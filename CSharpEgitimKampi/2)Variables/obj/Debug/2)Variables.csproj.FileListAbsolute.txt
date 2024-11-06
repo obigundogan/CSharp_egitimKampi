@@ -1,0 +1,7 @@
+C:\Users\İbrahim\OneDrive\Masaüstü\C#\C# Dersleri\CSharpEgitimKampi\2)Variables\bin\Debug\2)Variables.exe.config
+C:\Users\İbrahim\OneDrive\Masaüstü\C#\C# Dersleri\CSharpEgitimKampi\2)Variables\bin\Debug\2)Variables.exe
+C:\Users\İbrahim\OneDrive\Masaüstü\C#\C# Dersleri\CSharpEgitimKampi\2)Variables\bin\Debug\2)Variables.pdb
+C:\Users\İbrahim\OneDrive\Masaüstü\C#\C# Dersleri\CSharpEgitimKampi\2)Variables\obj\Debug\2)Variables.csproj.AssemblyReference.cache
+C:\Users\İbrahim\OneDrive\Masaüstü\C#\C# Dersleri\CSharpEgitimKampi\2)Variables\obj\Debug\2)Variables.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim\OneDrive\Masaüstü\C#\C# Dersleri\CSharpEgitimKampi\2)Variables\obj\Debug\2)Variables.exe
+C:\Users\İbrahim\OneDrive\Masaüstü\C#\C# Dersleri\CSharpEgitimKampi\2)Variables\obj\Debug\2)Variables.pdb
